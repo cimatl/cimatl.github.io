@@ -1,0 +1,16 @@
+# Site navigation links
+
+- title: About
+  url: /about/
+
+- title: Rest
+  url: /articles/
+
+- title: Rethink
+  url: /blog/
+
+- title: Restore
+  url: /theme-setup/
+
+- title: Remap
+  url: /search/
