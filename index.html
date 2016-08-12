@@ -10,6 +10,7 @@ search_omit: true
 	<h5 style="font-family: 'Noto Sans KR', serif">여러분 한 사람 한 사람은<br /> 걸어다니는 하나님의 나라, 하나님의 교회, 하나님의 영광입니다!
 		<br /><span style="font-family: source-serif-pro, serif">You are a walking-dynamic kingdom, church, and glory of God!</span></h5>
 </div>
+<!--
 <ul class="post-list">
 {% for post in site.posts limit:3 %}
   <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span>{% if post.excerpt %} <span class="excerpt">{{ post.excerpt | remove: '\[ ... \]' | remove: '\( ... \)' | markdownify | strip_html | strip_newlines | escape_once }}</span>{% endif %}</a></article></li>

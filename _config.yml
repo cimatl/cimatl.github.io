@@ -1,12 +1,12 @@
 # Site wide configuration
 
-title: 인모션 교회
+# title: 인모션 교회
 locale: en_US
-description: Church in Motion at Atlanta
-logo: cim_logo.png
+# description: Church in Motion at Atlanta
+logo: cim_logo_r.png
 search: true
-url: http://cimatl.org
-#url: http://localhost:4000
+#url: http://cimatl.org
+url: http://localhost:4000
 
 # Jekyll configuration
 
