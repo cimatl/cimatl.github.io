@@ -10,7 +10,7 @@ url: http://cimatl.org
 
 # Jekyll configuration
 
-permalink:   /:categories/:title/:subcategories
+permalink:   /:categories/:title
 markdown:    kramdown
 highlighter: rouge
 sass:
