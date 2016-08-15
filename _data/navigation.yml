@@ -2,9 +2,6 @@
 
 - title: About
   url: /about/
-  subcategories:
-  - subtitle: "mission"
-    subhref: "/about/mission/"
 
 - title: Worship
   url: /worship/
