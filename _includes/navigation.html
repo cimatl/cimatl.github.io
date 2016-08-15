@@ -8,6 +8,20 @@
 		        {% assign domain = site.url %}
 		    {% endif %}
 		    <li><a href="{{ domain }}{{ link.url }}" {% if link.url contains 'http' %}target="_blank"{% endif %}>{{ link.title }}</a></li>
+
+			{% assign sublinks = entry.sublinks %}
+        			{% if sublinks %}
+       			 <li{{ current }}>
+            			<a href="{{ domain }}{{ link.url }}">{{ link.title }}</a>
+            			<ul>
+                			{% for sublink in sublinks %}
+               		 <li><a href="{{ domain }}{{ sublink.url }}">{{ sublink.title }}</a></li>
+                			{% endfor %}
+            			</ul>
+        		 </li>
+        			{% else %}
+        			<li{{ current }}><a href="{{ site.baseurl }}{{ entry.url }}">{{ entry.title }}</a></li>
+       				{% endif %}
 		  {% endfor %}
 	    </ul>
 	</nav>
