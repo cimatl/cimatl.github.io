@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 목회방향 Mission and Vision
+title: Mission and Vision
 excerpt: "목회방향 Mission and Vision"
 image:
   feature: so-simple-sample-image-4.jpg
