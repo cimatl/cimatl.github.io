@@ -1,0 +1,30 @@
+- title: About
+  href: /about/
+  subcategories:
+    - subtitle: visit
+      subhref: /about/visit/
+    - subtitle: staff
+      subhref: /about/staff/
+    - subtitle: mission
+      subhref: /about/mission/
+- title: Worship
+  href: /worship/
+  subcategories:
+    - subtitle: sermon
+      subhref: /worship/sermon/
+    - subtitle: lectionary
+      subhref: /worship/lectionary/
+    - subtitle: sermon archive
+      subhref: /worship/sermon-archive/
+
+- title: Rest
+  href: /articles/
+
+- title: Rethink
+  href: /blog/
+
+- title: Restore
+  href: /theme-setup/
+
+- title: Remap
+  href: /search/
