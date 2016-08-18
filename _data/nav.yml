@@ -3,10 +3,10 @@
   subcategories:
     - subtitle: welcome
       subhref: /about/welcome/
-    - subtitle: staff
-      subhref: /about/staff/
     - subtitle: mission
       subhref: /about/mission/
+    - subtitle: staff
+      subhref: /about/staff/
 - title: Worship
   href: /worship/
   subcategories:
