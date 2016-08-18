@@ -1,8 +1,8 @@
 - title: About
   href: /about/
   subcategories:
-    - subtitle: visit
-      subhref: /about/visit/
+    - subtitle: welcome
+      subhref: /about/welcome/
     - subtitle: staff
       subhref: /about/staff/
     - subtitle: mission
