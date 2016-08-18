@@ -5,7 +5,7 @@ excerpt: "목회방향 Mission and Vision"
 image:
   feature: so-simple-sample-image-4.jpg
 ---
-목회방향 (Mission)
+미션 (Mission)
 
 CIM은 
 
