@@ -17,14 +17,20 @@
     - subtitle: sermon archive
       subhref: /worship/sermon-archive/
 
-- title: Rest
-  href: /articles/
+- title: Biblical Mapping
+  href: /mapping/
+  subcategories:
+    - subtitle: rest
+      subhref: /mapping/rest/
+    - subtitle: rethink
+      subhref: /mapping/rethink/
+    - subtitle: restore
+      subhref: /mapping/restore/
+    - subtitle: remap
+      subhref: /mapping/remap/
 
-- title: Rethink
+- title: Blog
   href: /blog/
 
-- title: Restore
-  href: /theme-setup/
-
-- title: Remap
-  href: /search/
+- title: Donate
+  href: /donate/
