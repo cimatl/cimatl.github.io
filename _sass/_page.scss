@@ -72,7 +72,7 @@ span + .entry-title {
 }
 
 .entry-title {
-	font-family: 'Noto Sans KR', $alt-font;
+	font-family: $alt-font, 'Noto Sans KR';
 	font-style: italic;
 	@include font-size(32,yes,36);
 	font-weight: 400;
