@@ -37,7 +37,7 @@ body {
    ========================================================================== */
 
 body {
-	font-family: $base-font, 'Noto Sans KR';
+	font-family: 'Noto Sans KR';
 	color: $text-color;
 	@include font-size(16);
 }
