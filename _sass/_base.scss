@@ -37,7 +37,7 @@ body {
    ========================================================================== */
 
 body {
-	font-family: 'Jeju Gothic';
+	font-family: $base-font;
 	color: $text-color;
 	@include font-size(16);
 }
