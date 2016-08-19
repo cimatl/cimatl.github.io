@@ -1,12 +1,12 @@
 - title: About
   href: /about/
   subcategories:
-    - subtitle: visit
-      subhref: /about/visit/
-    - subtitle: staff
-      subhref: /about/staff/
+    - subtitle: welcome
+      subhref: /about/welcome/
     - subtitle: mission
       subhref: /about/mission/
+    - subtitle: staff
+      subhref: /about/staff/
 - title: Worship
   href: /worship/
   subcategories:
@@ -17,14 +17,20 @@
     - subtitle: sermon archive
       subhref: /worship/sermon-archive/
 
-- title: Rest
-  href: /articles/
+- title: Biblical Mapping
+  href: /mapping/
+  subcategories:
+    - subtitle: rest
+      subhref: /mapping/rest/
+    - subtitle: rethink
+      subhref: /mapping/rethink/
+    - subtitle: restore
+      subhref: /mapping/restore/
+    - subtitle: remap
+      subhref: /mapping/remap/
 
-- title: Rethink
+- title: Blog
   href: /blog/
 
-- title: Restore
-  href: /theme-setup/
-
-- title: Remap
-  href: /search/
+- title: Donate
+  href: /donate/
