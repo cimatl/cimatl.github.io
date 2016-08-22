@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: 리눅스#에뮬레이터#레트로게임
 categories: articles
 ---
