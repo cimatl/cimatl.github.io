@@ -11,7 +11,7 @@
 > -  (사양에 따라 사용할 리눅스 배포본: [Linux Mint](https://www.linuxmint.com), [Elementary OS](https://elementary.io), [Bodhi Linux Legacy version](http://www.bodhilinux.com/w/selecting-the-correct-iso-image))
 > - apt-get install/update/upgrade 등 간단한 리눅스 명령어들을 배웁니다
 
-<i class="icon-file"></i> 이 리눅스 머신을 우선 인터넷 브라우징 전용 랩탑으로 바꿉니다. 
+<i class="icon-file"></i> 이 리눅스 머신을 우선 인터넷 브라우징 전용 랩탑으로 바꿉니다.
 >(Firefox + Addons: Ublock Origin + Grease Monkey + 눈이 침침한 어르신들을 위해 Nosquint Plus)
 
 <i class="icon-folder"></i> [MESS](http://www.mess.org) 로 apple//e 에뮬레이터를 설치합니다.
