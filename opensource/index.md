@@ -1,6 +1,6 @@
 ---
 layout: post
-title: #리눅스#텍스트어드벤처
+title: 리눅스#에뮬레이터#레트로게임
 categories: articles
 ---
 ####**"#리눅스#에뮬레이터#레트로게임"**
