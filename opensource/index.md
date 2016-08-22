@@ -2,9 +2,6 @@
 layout: page
 title:
 ---
-<html>
-<head>
-<meta charset="UTF-8">
 <h4 id="리눅스에뮬레이터레트로게임"><strong>“#리눅스#에뮬레이터#레트로게임”</strong></h4>
 
 <blockquote>
@@ -63,5 +60,3 @@ title:
 오픈소스 사역팀 <br>
 3700 Pleasant Hill Rd, Duluth, GA 30096 <br>
 cimatlanta@gmail.com</p>
-</body>
-</html>
