@@ -36,6 +36,9 @@
 
 - title: Donate
   href: /donate/
-  
+
 - title: Open Source
   href: /opensource/
+  subcategories:
+    - subtitle: meeting
+      subhref: /opensource/meet/
