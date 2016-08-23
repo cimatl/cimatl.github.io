@@ -26,7 +26,9 @@ title:
 <p><i class="icon-file"></i> 이 리눅스 머신을 우선 인터넷 브라우징 전용 랩탑으로 바꿉니다. </p>
 
 <blockquote>
-  <p>(Firefox + Addons: Ublock Origin + Grease Monkey + 눈이 침침한 어르신들을 위해 Nosquint Plus)</p>
+  <p>firefox + addons: ublock origin + grease monkey + 눈이 침침한 어르신들을 위해 nosquint plus</p>
+  <p>사양에 따라,</p>
+  <p>seamonkey + addons: adblock plus + scriptish</p>
 </blockquote>
 
 <p><i class="icon-folder"></i> <a href="http://www.mess.org">MESS</a> 로 apple//e 에뮬레이터를 설치합니다.</p>
