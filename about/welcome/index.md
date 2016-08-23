@@ -3,11 +3,11 @@
   title: Welcome
   excerpt: "welcome"
   image:
-    feature: so-simple-sample-image-4.jpg
+    feature:
 ---
 <style>
 body {
-    background-color: #f5ffd7;
+    background-color: #fdfff6;
 }
 </style>
 CIM 공간에 들어 오신 분들을 환영합니다. 애틀랜타에서 걸어다니는 말씀과 예배의 공동체가 시작되었습니다.  
