@@ -13,4 +13,4 @@ title:
 </form>
 </div>
 
-<h4 class="wsite-content-title" style="text-align:left;"><font size="2">Contact <span><a href="mailto:cimatlanta@gmail.com" style="line-height: 1.5; background-color: initial;" title="">인모션 교회@애틀랜타</a></span> </font></h4>
+<h4 class="wsite-content-title" style="text-align:left;"><font size="2">Contact <span><a href="mailto:cimatlanta@gmail.com" style="line-height: 1.5;">인모션 교회@애틀랜타</a></span> </font></h4>
