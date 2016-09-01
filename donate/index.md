@@ -20,4 +20,4 @@ title:
   <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
 
-<h4 class="wsite-content-title" style="text-align:left;"><font size="2"><a href="mailto:cimatlanta@gmail.com" style="line-height: 1.5;">인모션 교회@애틀랜타</a></font></h4>
+<h4 class="wsite-content-title" style="text-align:left;"><font size="2"><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=3VQCELJZVD8QE" style="line-height: 1.5;">인모션 교회@애틀랜타</a></font></h4>
