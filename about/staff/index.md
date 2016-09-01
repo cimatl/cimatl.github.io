@@ -13,7 +13,7 @@ body {
 
 ## **Pastoral Staff** ##
 
-{{ site.url }}/assets/staff.jpeg
+{{ site.url }}/images/staff.jpeg
 
 **담임목사: 김여호수아 (Joshua Kim)**
 
