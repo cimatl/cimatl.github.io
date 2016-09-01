@@ -15,7 +15,6 @@ body {
 	<img src="/images/staff.jpg" alt="image">
 </figure>
 
-</br>
 
 **담임목사: 김여호수아 (Joshua Kim)**
 
