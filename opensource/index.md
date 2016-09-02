@@ -2,6 +2,12 @@
 layout: page
 title:
 ---
+<style>
+body {
+    background-color: #e7e7ff;
+}
+</style>
+
 <h4 id="리눅스에뮬레이터레트로게임"><strong>#리눅스#에뮬레이터#레트로게임</strong></h4>
 
 <blockquote>
