@@ -11,11 +11,9 @@ body {
 }
 </style>
 
-<p style="text-align: center;">
-<figure class="half">
+<figure class="half" style="text-align: center;">
 	<img src="/images/staff.jpg" alt="image">
 </figure>
-</p>
 
 
 **담임목사: 김여호수아 (Joshua Kim)**
