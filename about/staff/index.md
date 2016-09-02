@@ -12,7 +12,7 @@ body {
 </style>
 
 <figure style="text-align: center;">
-	<img src="/images/staff.jpg" alt="image" width="600" height="300">
+	<img src="/images/staff.jpg" alt="image" width="300" height="240">
 </figure>
 
 
