@@ -11,8 +11,8 @@ body {
 }
 </style>
 
-<figure class="half" style="text-align: center;">
-	<img src="/images/staff.jpg" alt="image">
+<figure style="text-align: center;">
+	<img src="/images/staff.jpg" alt="image" width="600" height="300">
 </figure>
 
 
