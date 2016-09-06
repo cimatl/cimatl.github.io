@@ -13,7 +13,7 @@ body {
 
 <td width="323"><div align="center">    
 <IMG border="0" src="/images/signboard.jpeg" width="275" height="209">
-
+</div></td>
 <br />
 
 ##### 예배 시간  *Worship Hour* #####
