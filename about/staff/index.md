@@ -22,7 +22,7 @@ body {
 - Th.M. Columbia Theological Seminary
 - M.Div. Columbia Theological Seminary
 
-**장년교육과 돌봄: 채미나 (Mina Chae)**
+**장년교육과 돌봄: 채민아 (Mina Chae)**
 
 >- M.Div. Columbia Theological Seminary
 
@@ -36,7 +36,7 @@ body {
 
 >- M.Div. International Theological Seminary
 
-**목회 돌봄과 상담 사역: 박소피아 (Sophia Park)**
+**목회 돌봄과 상담 사역: 박 소피아 (Sophia Park)**
 
 >- Th.D.  in Pastoral Care and Counseling, Columbia Theological Seminary
 - M.Div. Columbia Theological Seminary
