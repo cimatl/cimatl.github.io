@@ -17,12 +17,12 @@ body {
 
 
 **담임목사: 김여호수아 (Joshua Kim)**
-<p class="pull-right"><img src="/images/cim_jsk.png" alt="image" width="180" height="180"> </p>
+<p class="pull-right"><img src="/images/cim_jsk.png" alt="image" width="200" height="200"> </p>
 >- Ph.D. in New Testament, Durham University, U.K.
 - Th.M. Columbia Theological Seminary
 - M.Div. Columbia Theological Seminary
 
-<br>
+<br><br>
 **장년교육과 돌봄: 채민아 (Mina Chae)**
 <p><img src="/images/cim_cma.png" alt="image" width="200" height="200">
 </p>
@@ -55,7 +55,7 @@ body {
 - M.Div. Luther Seminary (2nd Year)
 - M.A. Yonsei University
 
-<br><br>
+<br><br><br>
 **교육과 회중상담: 유달석 (Yoo, Dal Seok)**
 <p class="pull-right"> <img src="/images/cim_yds.png" alt="image" width="200" height="200">
 </p>
