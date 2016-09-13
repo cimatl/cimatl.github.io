@@ -50,7 +50,7 @@ body {
 
 **교육과 회중상담: 유달석 (Yoo, Dal Seok)**
 
-<p class="pull-right"> <img src="/images/cim_yds.png" alt="image" width="100" height="100">
+<p class="pull-right"> <img src="/images/cim_yds.png" alt="image" width="200" height="200">
 </p>
 >- Th.D.  in Pastoral Care and Counseling, Candler School of Theology, Emory University
 - M.Div. Chong Shin Theological Seminary
