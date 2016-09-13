@@ -23,11 +23,14 @@ body {
 - M.Div. Columbia Theological Seminary
 
 **장년교육과 돌봄: 채민아 (Mina Chae)**
-
+<p class="pull-right"> <img src="/images/cim_cma.png" alt="image" width="200" height="200">
+</p>
 >- M.Div. Columbia Theological Seminary
 
-**리더십 사역: 장종식 (Jong Sik Chang)**
+<br><br><br><br><br>
 
+**리더십 사역: 장종식 (Jong Sik Chang)**
+<p class="pull-left"><img src="/images/cim_jjs.png" alt="image" width="150" height="150"> </p>
 >- Ph.D. in Ethics, Birmingham University, U.K.
 - Th.M.  Presbyterian University and Theological Seminary
 - M.Div. Presbyterian University and Theological Seminary
