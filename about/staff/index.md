@@ -33,6 +33,7 @@ body {
 - Th.M.  Presbyterian University and Theological Seminary
 - M.Div. Presbyterian University and Theological Seminary
 
+<br><br>
 **선교와 돌봄 사역: 김명순 (Myung Soon Kim)**
 <p><img src="/images/cim_kms.png" alt="image" width="200" height="200">
 </p>
