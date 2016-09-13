@@ -45,12 +45,9 @@ body {
 **예배와 미디어 사역: 신 건 (Gunn Shin)**
 
 <p class="pull-left"><img src="/images/cim_sg.png" alt="image" width="150" height="150"> </p>
-<p align="right">
-Ph.D. Candidate in Anthropology of Religion, University of Minnesota
-M.Div. Luther Seminary (2nd Year)
-M.A. Yonsei University
-</p>
-</br></br>
+>- Ph.D. Candidate in Anthropology of Religion, University of Minnesota
+- M.Div. Luther Seminary (2nd Year)
+- M.A. Yonsei University
 
 **교육과 회중상담: 유달석 (Yoo, Dal Seok)**
 <p class="pull-right"> <img src="/images/cim_yds.png" alt="image" width="200" height="200">
