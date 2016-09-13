@@ -19,7 +19,7 @@ p.thick {
 	<img src="/images/staff.jpg" alt="image" width="300" height="240">
 </figure>
 
-<p class="thick">담임목사: 김여호수아 (Joshua Kim)</p>
+<p class="thick">담임목사: 김 여호수아 (Joshua Kim)</p>
 <p class="pull-right"><img src="/images/cim_jsk.png" alt="image" width="220" height="220"> </p>
 
 >- Ph.D. in New Testament, Durham University, U.K.
