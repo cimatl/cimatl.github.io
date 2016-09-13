@@ -9,6 +9,10 @@ image:
 body {
     background-color: #fffff6;
 }
+p.thick {
+  font-weight: bold;
+  text-align: right;
+  }
 </style>
 
 <figure style="text-align: center;">
@@ -16,7 +20,7 @@ body {
 </figure>
 
 
-**담임목사: 김여호수아 (Joshua Kim)**
+<p class="thick">**담임목사: 김여호수아 (Joshua Kim)**</p>
 <p class="pull-right"><img src="/images/cim_jsk.png" alt="image" width="220" height="220"> </p>
 >- Ph.D. in New Testament, Durham University, U.K.
 - Th.M. Columbia Theological Seminary
@@ -29,12 +33,6 @@ body {
 >- M.Div. Columbia Theological Seminary
 
 <br>
-<style>
-p.thick {
-  font-weight: bold;
-  text-align: right;
-  }
-</style>
 <p class="thick">리더십 사역: 장종식 (Jong Sik Chang)</p>
 <p class="pull-right"><img src="/images/cim_jjs.png" alt="image" width="150" height="150"> </p>
 >- Ph.D. in Ethics, Birmingham University, U.K.
@@ -63,7 +61,7 @@ p.thick {
 - M.A. Yonsei University
 
 <br><br><br>
-**교육과 회중상담: 유달석 (Yoo, Dal Seok)**
+<p class="thick">**교육과 회중상담: 유달석 (Yoo, Dal Seok)**</p>
 <p class="pull-right"> <img src="/images/cim_yds.png" alt="image" width="200" height="200">
 </p>
 >- Th.D.  in Pastoral Care and Counseling, Candler School of Theology, Emory University
