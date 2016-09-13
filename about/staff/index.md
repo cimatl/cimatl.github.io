@@ -28,13 +28,14 @@ body {
 >- M.Div. Columbia Theological Seminary
 
 **리더십 사역: 장종식 (Jong Sik Chang)**
-<p class="pull-left"><img src="/images/cim_jjs.png" alt="image" width="150" height="150"> </p>
+<p class="pull-right"><img src="/images/cim_jjs.png" alt="image" width="150" height="150"> </p>
 >- Ph.D. in Ethics, Birmingham University, U.K.
 - Th.M.  Presbyterian University and Theological Seminary
 - M.Div. Presbyterian University and Theological Seminary
 
 **선교와 돌봄 사역: 김명순 (Myung Soon Kim)**
-
+<p><img src="/images/cim_kms.png" alt="image" width="200" height="200">
+</p>
 >- M.Div. International Theological Seminary
 
 **목회 돌봄과 상담 사역: 박 소피아 (Sophia Park)**
