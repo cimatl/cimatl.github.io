@@ -17,11 +17,12 @@ body {
 
 
 **담임목사: 김여호수아 (Joshua Kim)**
-
+<p class="pull-right"><img src="/images/cim_jsk.png" alt="image" width="180" height="180"> </p>
 >- Ph.D. in New Testament, Durham University, U.K.
 - Th.M. Columbia Theological Seminary
 - M.Div. Columbia Theological Seminary
 
+<br>
 **장년교육과 돌봄: 채민아 (Mina Chae)**
 <p><img src="/images/cim_cma.png" alt="image" width="200" height="200">
 </p>
@@ -39,12 +40,14 @@ body {
 </p>
 >- M.Div. International Theological Seminary
 
+<br>
 **목회 돌봄과 상담 사역: 박 소피아 (Sophia Park)**
 
 >- Th.D.  in Pastoral Care and Counseling, Columbia Theological Seminary
 - M.Div. Columbia Theological Seminary
 - Licensed Marriage and Family Therapist (LMFT)
 
+<br>
 **예배와 미디어 사역: 신 건 (Gunn Shin)**
 
 <p class="pull-left"><img src="/images/cim_sg.png" alt="image" width="150" height="150"> </p>
