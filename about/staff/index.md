@@ -20,13 +20,13 @@ p.thick {
 </figure>
 
 
-<p class="thick">**담임목사: 김여호수아 (Joshua Kim)**</p>
+<p class="thick">담임목사: 김여호수아 (Joshua Kim)</p>
 <p class="pull-right"><img src="/images/cim_jsk.png" alt="image" width="220" height="220"> </p>
 >- Ph.D. in New Testament, Durham University, U.K.
 - Th.M. Columbia Theological Seminary
 - M.Div. Columbia Theological Seminary
 
-<br><br><br>
+<br><br>
 **장년교육과 돌봄: 채민아 (Mina Chae)**
 <p><img src="/images/cim_cma.png" alt="image" width="200" height="200">
 </p>
@@ -39,14 +39,14 @@ p.thick {
 - Th.M.  Presbyterian University and Theological Seminary
 - M.Div. Presbyterian University and Theological Seminary
 
-<br><br><br>
+<br><br>
 **선교와 돌봄 사역: 김명순 (Myung Soon Kim)**
 <p><img src="/images/cim_kms.png" alt="image" width="200" height="200">
 </p>
 >- M.Div. International Theological Seminary
 
 <br>
-**목회 돌봄과 상담 사역: 박 소피아 (Sophia Park)**
+<p class="thick">목회 돌봄과 상담 사역: 박 소피아 (Sophia Park)<p>
 
 >- Th.D.  in Pastoral Care and Counseling, Columbia Theological Seminary
 - M.Div. Columbia Theological Seminary
@@ -60,7 +60,7 @@ p.thick {
 - M.Div. Luther Seminary (2nd Year)
 - M.A. Yonsei University
 
-<br><br><br>
+<br><br>
 <p class="thick">**교육과 회중상담: 유달석 (Yoo, Dal Seok)**</p>
 <p class="pull-right"> <img src="/images/cim_yds.png" alt="image" width="200" height="200">
 </p>
