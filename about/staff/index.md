@@ -26,6 +26,7 @@ p.thick {
 - Th.M. Columbia Theological Seminary
 - M.Div. Columbia Theological Seminary
 
+<br>
 **장년교육과 돌봄: 채민아 (Mina Chae)**
 <p><img src="/images/cim_cma.png" alt="image" width="200" height="200">
 </p>
@@ -39,18 +40,21 @@ p.thick {
 - Th.M.  Presbyterian University and Theological Seminary
 - M.Div. Presbyterian University and Theological Seminary
 
+<br>
 **선교와 돌봄 사역: 김명순 (Myung Soon Kim)**
 <p><img src="/images/cim_kms.png" alt="image" width="200" height="200">
 </p>
 
 >- M.Div. International Theological Seminary
 
+<br>
 <p class="thick">목회 돌봄과 상담 사역: 박 소피아 (Sophia Park)</p>
 
 >- Th.D.  in Pastoral Care and Counseling, Columbia Theological Seminary
 - M.Div. Columbia Theological Seminary
 - Licensed Marriage and Family Therapist (LMFT)
 
+<br>
 **예배와 미디어 사역: 신 건 (Gunn Shin)**
 <p class="pull-left"><img src="/images/cim_sg.png" alt="image" width="150" height="150"> </p>
 >- Ph.D. Candidate in Anthropology of Religion, University of Minnesota
