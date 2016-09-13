@@ -29,7 +29,7 @@ body {
 >- M.Div. Columbia Theological Seminary
 
 <br>
-<p style="text-align: right;">**리더십 사역: 장종식 (Jong Sik Chang)**
+<p style="text-align: right;">**리더십 사역: 장종식 (Jong Sik Chang)**</p>
 <p class="pull-right"><img src="/images/cim_jjs.png" alt="image" width="150" height="150"> </p>
 >- Ph.D. in Ethics, Birmingham University, U.K.
 - Th.M.  Presbyterian University and Theological Seminary
