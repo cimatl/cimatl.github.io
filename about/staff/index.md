@@ -49,6 +49,7 @@ body {
 - M.Div. Luther Seminary (2nd Year)
 - M.A. Yonsei University
 
+<br><br>
 **교육과 회중상담: 유달석 (Yoo, Dal Seok)**
 <p class="pull-right"> <img src="/images/cim_yds.png" alt="image" width="200" height="200">
 </p>
