@@ -6,7 +6,7 @@ search_omit: true
 <style>
 .videoWrapper {
 	position: relative;
-	padding-bottom: 10%;
+	padding-bottom: 50%;
 	padding-top: 25px;
 	height: 0;
 }
@@ -14,8 +14,8 @@ search_omit: true
 	position: absolute;
 	top: 0;
 	left: 0;
-	width: 50%;
-	height: 50%;
+	width: 45%;
+	height: 45%;
 }
 </style>
 
