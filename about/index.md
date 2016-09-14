@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Info
-excerpt: "info"
+title: About
 image:
   feature:
 ---
