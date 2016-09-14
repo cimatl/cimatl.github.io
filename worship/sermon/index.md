@@ -24,6 +24,7 @@ search_omit: true
 <iframe src="https://player.vimeo.com/video/182744393?color=c9ff23&title=0&byline=0&portrait=0" width="400" height="256" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </div>
 
+<br>
 >- 구약 읽기 / 1st Reading		
 	- 예레미아서 / [Jeremiah 4:11-12, 22-28](http://lectionary.library.vanderbilt.edu/texts.php?id=279#hebrew_reading)
 - 신약 읽기 / 2nd Reading		
