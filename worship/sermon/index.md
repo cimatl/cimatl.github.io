@@ -15,7 +15,7 @@ search_omit: true
 	top: 0;
 	left: 0;
 	width: 20%;
-	height: 100%;
+	height: 40%;
 }
 </style>
 
