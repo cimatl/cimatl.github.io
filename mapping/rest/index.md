@@ -1,5 +1,5 @@
 ---
 layout: page
-title: Reconciliate
+title: Rest
 search_omit: true
 ---
