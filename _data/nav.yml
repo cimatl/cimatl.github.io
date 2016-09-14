@@ -26,8 +26,8 @@
       subhref: /mapping/rest/
     - subtitle: rethink
       subhref: /mapping/rethink/
-    - subtitle: restore
-      subhref: /mapping/restore/
+    - subtitle: reconciliate
+      subhref: /mapping/reconciliate/
     - subtitle: remap
       subhref: /mapping/remap/
 
