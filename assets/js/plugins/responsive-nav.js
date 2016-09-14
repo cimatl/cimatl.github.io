@@ -206,7 +206,7 @@ var responsiveNav = (function (window, document) {
         addClass(nav, "closed");
         setAttributes(nav, {"aria-hidden": "true"});
 
-  
+
 
         navOpen = false;
         opts.close();
@@ -321,11 +321,11 @@ var responsiveNav = (function (window, document) {
       this.toggle(e);
     },
 
-    _ontouchend: function () {
+    _ontouchend: function (e) {
       // Prevents ghost click from happening on some Android browsers
       var that = this;
       nav.addEventListener("click", that._preventDefault, true);
-      setTimeout(function () {
+      setTimeout(function (e) {
         nav.removeEventListener("click", that._preventDefault, true);
       }, opts.transition);
     },
