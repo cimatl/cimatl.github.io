@@ -7,7 +7,7 @@ search_omit: true
 <h6>September 11, 2016</h6>
 
 >- 구약 읽기 / 1st Reading		
-	- 예레미아서 / Jeremiah 4:11-12, 22-28
+	- 예레미아서 / [Jeremiah 4:11-12, 22-28](javascript:popup_no_modal('%2fControls%2fright%2ftool_wp_calendar_author_reading%2fload_reading_text.aspx%3freading_id%3d1646','Scripture%20Reading%20Text',500,700)
 - 신약 읽기 / 2nd Reading		
 	- 디모데전서 / 1 Timothy 1:12-17
 - 본문 읽기 / Today’s Reading
