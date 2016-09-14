@@ -14,8 +14,8 @@ search_omit: true
 	position: absolute;
 	top: 0;
 	left: 0;
-	width: 20%;
-	height: 20%;
+	width: 40%;
+	height: 40%;
 }
 </style>
 
