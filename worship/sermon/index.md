@@ -23,7 +23,6 @@ search_omit: true
 <div class="videoWrapper">
 <iframe src="https://player.vimeo.com/video/182744393?color=c9ff23&title=0&byline=0&portrait=0" width="400" height="256" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </div>
-
 <br>
 
 >- 구약 읽기 / 1st Reading		
