@@ -4,7 +4,7 @@
 
    .navigation-wrapper {
      text-align: center;
-     position: relative;
+     position: absolute;
      @include clearfix;
      ul {
        display: inline-block;
