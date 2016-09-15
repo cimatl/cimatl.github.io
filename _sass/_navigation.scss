@@ -91,32 +91,12 @@
    Responsive navigation toggle
    ========================================================================== */
 
-#site-nav {
-  display: none;
-  z-index: 5;
-    @include media($medium) {
-    -webkit-animation-duration: 1s;
-    -moz-animation-duration: 1s;
-    -o-animation-duration: 1s;
-    animation-duration: 1s;
-  }
-  &.closed {
-      @include media($medium) {
-      display: block;
-    }
-  }
-  &.opened {
-    display: block;
-    max-height: 100%;
-    li {
-      float: none;
-        @include media($medium) {
-        float: left;
-      }
-    }
-  }
-}
-
+#site-nav
+			{
+				position: relative;
+				top: auto;
+				left: auto;
+			}
 #site-nav > a
 				{
 					width: 3.125em; /* 50 */
