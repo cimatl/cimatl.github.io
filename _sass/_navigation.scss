@@ -1,207 +1,137 @@
-		{
-			background-color: #f7efeb;
-			padding: 1.25em; /* 20 */
-		}
+/* ==========================================================================
+   Top navigation
+   ========================================================================== */
 
-		#site-nav
-		{
-			width: 50em; /* 1000 */
-			font-family: sans-serif;
-			font-weight: 400;
-			position: absolute;
-			top: 0%;
-			left: 50%;
-			margin-left: -20em; /* 30 480 */
-		}
+   .navigation-wrapper {
+     text-align: center;
+     position: relative;
+     @include clearfix;
+     ul {
+       display: inline-block;
+       width: auto;
+       vertical-align: top;
+       margin: 0 0 10px;
+       padding: 4px 0px;
+       background-color: $black;
+         @include media($medium) {
+         width: auto;
+         @include rounded(0 0 10px 10px);
+       }
+       @include clearfix;
+     }
 
-			#site-nav > a
-			{
-				display: none;
-			}
+   li a, .dropbtn {
+       display: inline;
+       color: white;
+       text-align: center;
+       padding: 1px 10px;
+       text-decoration: none;
+   }
+     li {
+       display: block;
+       float: left;
+       list-style: none;
+       text-align: center;
+       @include font-size(24,no);
+       text-transform: uppercase;
+       color: $white;
+         @include media($medium) {
+         @include font-size(14,no);
+       }
+       a:hover, dropdown:hover .dropbtn {
+         @include box-shadow($shadow: inset 0 0 1px $white);
+       }
+     }
+     a {
+       display: inline;
+       margin-bottom: 10px;
+       padding: 12px 20px;
+         @include media($medium) {
+         margin-bottom: 0;
+         padding: 6px 10px;
+       }
+       color: $white;
+       @include rounded(4px);
+       &:hover {
+         background-color: lighten($black, 10);
+       }
+     }
 
-			#site-nav li
-			{
-				position: relative;
-			}
-				#site-nav li a
-				{
-					color: #fff;
-					display: block;
-				}
-				#site-nav li a:active
-				{
-					background-color: #c00 !important;
-				}
+   li.dropdown {
+       display: inline;
+   }
 
-			#site-nav span:after
-			{
-				width: 0;
-				height: 0;
-				border: 0.313em solid transparent; /* 5 */
-				border-bottom: none;
-				border-top-color: #efa585;
-				content: '';
-				vertical-align: middle;
-				display: inline-block;
-				position: relative;
-				right: -0.313em; /* 5 */
-			}
+   .dropdown-content {
+       display: none;
+       position: absolute;
+       background-color: #3e8e41;
+   }
 
-			/* first level */
+   .dropdown-content a {
+       color: black;
+       padding: 0px 10px;
+       text-decoration: none;
+       display: block;
+       text-align: left;
+   }
+   .dropdown-content a:hover {
+    background-color: #e6e6e6;}
 
-			#site-nav > ul
-			{
-				height: 3.75em; /* 60 */
-				background-color: #e15a1f;
-			}
-				#site-nav > ul > li
-				{
-					width: 25%;
-					height: 100%;
-					float: left;
-				}
-					#site-nav > ul > li > a
-					{
-						height: 100%;
-						font-size: 1.5em; /* 24 */
-						line-height: 2.5em; /* 60 (24) */
-						text-align: center;
-					}
-						#site-nav > ul > li:not( :last-child ) > a
-						{
-							border-right: 1px solid #cc470d;
-						}
-						#site-nav > ul > li:hover > a,
-						#site-nav > ul:not( :hover ) > li.active > a
-						{
-							background-color: #cc470d;
-						}
+   .dropdown:hover .dropdown-content {
+    background-color: #f9f9f9;
+    display: block;}
 
-
-				/* second level */
-
-				#site-nav li ul
-				{
-					background-color: #cc470d;
-					display: none;
-					position: absolute;
-					top: 100%;
-				}
-					#site-nav li:hover ul
-					{
-						display: block;
-						left: 0;
-						right: 0;
-					}
-						#site-nav li:not( :first-child ):hover ul
-						{
-							left: -1px;
-						}
-						#site-nav li ul a
-						{
-							font-size: 1.25em; /* 20 */
-							border-top: 1px solid #e15a1f;
-							padding: 0.75em; /* 15 (20) */
-						}
-							#site-nav li ul li a:hover,
-							#site-nav li ul:not( :hover ) li.active a
-							{
-								background-color: #e15a1f;
-							}
+   .dropdown:hover .dropbtn {
+    background-color: #b4ac4a;
+}
+   }
 
 
-		@media only screen and ( max-width: 62.5em ) /* 1000 */
-		{
-			#site-nav
-			{
-				width: 100%;
-				position: static;
-				margin: 0;
-			}
-		}
+/*
+   Responsive navigation toggle
+   ========================================================================== */
 
-		@media only screen and ( max-width: 40em ) /* 640 */
-		{
-			html
-			{
-				font-size: 75%; /* 12 */
-			}
+#site-nav {
+  display: none;
+  z-index: 5;
+    @include media($medium) {
+    -webkit-animation-duration: 1s;
+    -moz-animation-duration: 1s;
+    -o-animation-duration: 1s;
+    animation-duration: 1s;
+  }
+  &.closed {
+      @include media($medium) {
+      display: block;
+    }
+  }
+  &.opened {
+    display: block;
+    max-height: 100%;
+    li {
+      float: none;
+        @include media($medium) {
+        float: left;
+      }
+    }
+  }
+}
 
-			#site-nav
-			{
-				position: relative;
-				top: auto;
-				left: auto;
-			}
-				#site-nav > a
-				{
-					width: 3.125em; /* 50 */
-					height: 3.125em; /* 50 */
-					text-align: left;
-					text-indent: -9999px;
-					background-color: #e15a1f;
-					position: relative;
-				}
-					#site-nav > a:before,
-					#site-nav > a:after
-					{
-						position: absolute;
-						border: 2px solid #fff;
-						top: 35%;
-						left: 25%;
-						right: 25%;
-						content: '';
-					}
-					#site-nav > a:after
-					{
-						top: 60%;
-					}
+/* display when JavaScript is disabled */
+.no-js #site-nav {
+  display: block;
+}
 
-				#site-nav:not( :target ) > a:first-of-type,
-				#site-nav:target > a:last-of-type
-				{
-					display: block;
-				}
-
-
-			/* first level */
-
-			#site-nav > ul
-			{
-				height: auto;
-				display: none;
-				position: absolute;
-				left: 0;
-				right: 0;
-			}
-				#site-nav:target > ul
-				{
-					display: block;
-				}
-				#site-nav > ul > li
-				{
-					width: 100%;
-					float: none;
-				}
-					#site-nav > ul > li > a
-					{
-						height: auto;
-						text-align: left;
-						padding: 0 0.833em; /* 20 (24) */
-					}
-						#site-nav > ul > li:not( :last-child ) > a
-						{
-							border-right: none;
-							border-bottom: 1px solid #cc470d;
-						}
-
-
-				/* second level */
-
-				#site-nav li ul
-				{
-					position: static;
-					padding: 1.25em; /* 20 */
-					padding-top: 0;
-				}
-		}
+#nav-toggle {
+  z-index: 20;
+  display: block;
+  vertical-align: top;
+  margin: 0;
+  padding: 6px 20px;
+  background-color: $black;
+  height: 44px;
+  @include rounded(0);
+    @include media($medium) {
+    display: none;
+  }
+}
