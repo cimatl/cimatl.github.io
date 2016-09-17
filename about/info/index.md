@@ -20,6 +20,10 @@ body {
 
 > **주일 예배 / Sundays : 오전 11시**
 
+##### 연락처 *Contact #####
+
+> **(404) 750 8624**
+
 ##### 약도 *Map* #####
 
 <td width="323"><div align="center">    
